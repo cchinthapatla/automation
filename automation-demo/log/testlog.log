@@ -1,0 +1,49 @@
+2021-12-10 16:22:03,587 - com.demo.test.AutomationTest1 -INFO - Selected Departure City
+2021-12-10 16:22:03,772 - com.demo.test.AutomationTest1 -INFO - Selected Destination City
+2021-12-10 16:22:04,372 - com.demo.test.AutomationTest1 -INFO - Clicked on Find Flights Button
+2021-12-10 16:22:04,906 - com.demo.test.AutomationTest1 -INFO - Clicked on Choose This Flight Button
+2021-12-10 16:22:05,054 - com.demo.test.AutomationTest1 -INFO - Filled First Name Field
+2021-12-10 16:22:05,201 - com.demo.test.AutomationTest1 -INFO - Filled Address Field
+2021-12-10 16:22:05,816 - com.demo.test.AutomationTest1 -INFO - Clicked on Purchase Flight Button
+2021-12-10 16:22:05,901 - com.demo.test.AutomationTest1 -INFO - Confirmation Message : Thank you for your purchase today!
+2021-12-10 16:22:05,985 - com.demo.test.AutomationTest1 -INFO - Confirmation Id : 1639133525456
+2021-12-10 16:22:12,311 - com.demo.test.AutomationTest2 -INFO - Clicked on Registration Link
+2021-12-10 16:22:12,479 - com.demo.test.AutomationTest2 -INFO - Filled First Name Field
+2021-12-10 16:22:12,624 - com.demo.test.AutomationTest2 -INFO - Filled Last Name Field
+2021-12-10 16:22:12,791 - com.demo.test.AutomationTest2 -INFO - Clicked on Choose This Flight Button
+2021-12-10 16:22:15,511 - com.demo.test.AutomationTest2 -INFO - Registration Confirmation Message : Dear Test1639133531442 Te1639133531442,
+Thank you for registering. You may now sign-in using the user name and password you've just entered.
+Note: Your user name is test1639133531442@yopmail.com.
+2021-12-10 16:22:16,295 - com.demo.test.AutomationTest2 -INFO - Clicked on Flights Link
+2021-12-10 16:22:16,448 - com.demo.test.AutomationTest2 -INFO - Selected Departure City
+2021-12-10 16:22:16,742 - com.demo.test.AutomationTest2 -INFO - Selected Departure Month
+2021-12-10 16:22:16,898 - com.demo.test.AutomationTest2 -INFO - Selected Destination City
+2021-12-10 16:22:18,602 - com.demo.test.AutomationTest2 -INFO - Clicked on Continue Button
+2021-12-10 16:22:18,655 - com.demo.test.AutomationTest2 -INFO - Flights Confirmation Message : After flight finder - No Seats Avaialble  
+2021-12-10 16:22:21,851 - com.demo.test.AutomationTest2 -INFO - Filled Timer Input
+2021-12-10 16:22:22,021 - com.demo.test.AutomationTest2 -INFO - Clicked on Start Button
+2021-12-10 16:26:09,809 - com.demo.test.AutomationTest1 -INFO - Selected Departure City
+2021-12-10 16:26:10,011 - com.demo.test.AutomationTest1 -INFO - Selected Destination City
+2021-12-10 16:26:10,566 - com.demo.test.AutomationTest1 -INFO - Clicked on Find Flights Button
+2021-12-10 16:26:11,182 - com.demo.test.AutomationTest1 -INFO - Clicked on Choose This Flight Button
+2021-12-10 16:26:11,349 - com.demo.test.AutomationTest1 -INFO - Filled First Name Field
+2021-12-10 16:26:11,481 - com.demo.test.AutomationTest1 -INFO - Filled Address Field
+2021-12-10 16:26:12,065 - com.demo.test.AutomationTest1 -INFO - Clicked on Purchase Flight Button
+2021-12-10 16:26:12,124 - com.demo.test.AutomationTest1 -INFO - Confirmation Message : Thank you for your purchase today!
+2021-12-10 16:26:12,204 - com.demo.test.AutomationTest1 -INFO - Confirmation Id : 1639133771110
+2021-12-10 16:26:18,621 - com.demo.test.AutomationTest2 -INFO - Clicked on Registration Link
+2021-12-10 16:26:18,824 - com.demo.test.AutomationTest2 -INFO - Filled First Name Field
+2021-12-10 16:26:18,971 - com.demo.test.AutomationTest2 -INFO - Filled Last Name Field
+2021-12-10 16:26:19,124 - com.demo.test.AutomationTest2 -INFO - Clicked on Choose This Flight Button
+2021-12-10 16:26:22,438 - com.demo.test.AutomationTest2 -INFO - Registration Confirmation Message : Dear Test1639133777589 Te1639133777589,
+Thank you for registering. You may now sign-in using the user name and password you've just entered.
+Note: Your user name is test1639133777589@yopmail.com.
+2021-12-10 16:26:23,432 - com.demo.test.AutomationTest2 -INFO - Clicked on Flights Link
+2021-12-10 16:26:23,598 - com.demo.test.AutomationTest2 -INFO - Selected Departure City
+2021-12-10 16:26:23,889 - com.demo.test.AutomationTest2 -INFO - Selected Departure Month
+2021-12-10 16:26:24,045 - com.demo.test.AutomationTest2 -INFO - Selected Destination City
+2021-12-10 16:26:25,592 - com.demo.test.AutomationTest2 -INFO - Clicked on Continue Button
+2021-12-10 16:26:25,687 - com.demo.test.AutomationTest2 -INFO - Flights Confirmation Message : After flight finder - No Seats Avaialble  
+2021-12-10 16:26:28,977 - com.demo.test.AutomationTest2 -INFO - Filled Timer Input
+2021-12-10 16:26:29,094 - com.demo.test.AutomationTest2 -INFO - Clicked on Start Button
+2021-12-10 16:26:55,052 - com.demo.test.AutomationTest2 -INFO - Verified that the countdown is actually happening every second and that the remaining time decreases in one-second increments

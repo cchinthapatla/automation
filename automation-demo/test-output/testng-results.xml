@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation" duration-ms="49964" started-at="2021-12-10T10:56:05Z" finished-at="2021-12-10T10:56:55Z">
+    <groups>
+    </groups>
+    <test name="Automation" duration-ms="49964" started-at="2021-12-10T10:56:05Z" finished-at="2021-12-10T10:56:55Z">
+      <class name="com.demo.test.AutomationTest2">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demo.test.AutomationTest2@10dba097]" name="setUp" is-config="true" duration-ms="4562" started-at="2021-12-10T16:26:13Z" finished-at="2021-12-10T16:26:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="automationTest2()[pri:0, instance:com.demo.test.AutomationTest2@10dba097]" name="automationTest2" duration-ms="8099" started-at="2021-12-10T16:26:17Z" finished-at="2021-12-10T16:26:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationTest2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demo.test.AutomationTest2@10dba097]" name="tearDown" is-config="true" duration-ms="695" started-at="2021-12-10T16:26:25Z" finished-at="2021-12-10T16:26:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demo.test.AutomationTest2 -->
+      <class name="com.demo.test.AutomationTest1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demo.test.AutomationTest1@401e7803]" name="setUp" is-config="true" duration-ms="3788" started-at="2021-12-10T16:26:05Z" finished-at="2021-12-10T16:26:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="automationTest1()[pri:0, instance:com.demo.test.AutomationTest1@401e7803]" name="automationTest1" duration-ms="2593" started-at="2021-12-10T16:26:09Z" finished-at="2021-12-10T16:26:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationTest1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demo.test.AutomationTest1@401e7803]" name="tearDown" is-config="true" duration-ms="820" started-at="2021-12-10T16:26:12Z" finished-at="2021-12-10T16:26:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demo.test.AutomationTest1 -->
+      <class name="com.demo.test.AutomationTest3">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.demo.test.AutomationTest3@1786f9d5]" name="setUp" is-config="true" duration-ms="2429" started-at="2021-12-10T16:26:26Z" finished-at="2021-12-10T16:26:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="automationTest3()[pri:0, instance:com.demo.test.AutomationTest3@1786f9d5]" name="automationTest3" duration-ms="26944" started-at="2021-12-10T16:26:28Z" finished-at="2021-12-10T16:26:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationTest3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.demo.test.AutomationTest3@1786f9d5]" name="tearDown" is-config="true" duration-ms="16" started-at="2021-12-10T16:26:55Z" finished-at="2021-12-10T16:26:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demo.test.AutomationTest3 -->
+    </test> <!-- Automation -->
+  </suite> <!-- Automation -->
+</testng-results>
